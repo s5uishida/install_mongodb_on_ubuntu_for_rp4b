@@ -1,5 +1,5 @@
 # Install MongoDB 4.4.18 on Ubuntu 20.04 for Raspberry Pi 4B
-According to [this1](https://www.mongodb.com/community/forums/t/core-dump-on-mongodb-4-4-19-on-rpi-4/215223/3) and [this2](https://blog.yucas.net/2023/03/10/how-to-install-mongodb-raspberry-4-working-version/), the MongoDB version that works on Raspberry Pi 4B is up to 4.4.18.
+According to [this1](https://www.mongodb.com/community/forums/t/core-dump-on-mongodb-4-4-19-on-rpi-4/215223) and [this2](https://blog.yucas.net/2023/03/10/how-to-install-mongodb-raspberry-4-working-version/), the MongoDB version that works on Raspberry Pi 4B is up to 4.4.18.
 Also, I couldn't find the MongoDB server package on Ubuntu 22.04 for Raspberry Pi 4B, so here are the steps to install MongoDB 4.4.18 on Ubuntu 20.04.
 
 ```
